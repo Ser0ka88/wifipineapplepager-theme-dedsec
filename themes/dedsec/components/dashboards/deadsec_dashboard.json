@@ -25,10 +25,10 @@
       ],
       "selected_layers": [
         { "image_path": "assets/dashboard/item_bg.png", "x": 0, "y": 0, "recolor_palette": "white" },
-        { "text": "ALERTS", "x": -395, "y":  97, "text_size": "large", "text_color_palette": "white" }
+        { "text": "ALERTS", "x": -300, "y":  110, "text_size": "large", "text_color_palette": "white" }
       ],
-      "x": 400,
-      "y": 76,
+      "x": 304,
+      "y": 63,
       "target": "alerts_dashboard"
     },
     {
@@ -39,10 +39,10 @@
       ],
       "selected_layers": [
         { "image_path": "assets/dashboard/item_bg.png","x": 0, "y": 0, "recolor_palette": "white" },
-        { "text": "PAYLOADS", "x": -300, "y":  110, "text_size": "large", "text_color_palette": "white" }
+        { "text": "PAYLOADS", "x": -349, "y": 103, "text_size": "large", "text_color_palette": "white" }
       ],
-      "x": 304,
-      "y": 63,
+      "x": 352,
+      "y": 70,
       "target": "payloads_dashboard",
       "variable": "$_PAYLOAD_CATEGORIES"
     },
@@ -53,10 +53,10 @@
       ],
       "selected_layers": [
         { "image_path": "assets/dashboard/item_bg.png","x": 0, "y": 0, "recolor_palette": "white"  },
-        { "text": "RECON", "x": -283, "y":  67, "text_size": "large", "text_color_palette": "white" }
+        { "text": "RECON", "x": -395, "y":  97, "text_size": "large", "text_color_palette": "white" }
       ],
-      "x": 294,
-      "y": 105,
+      "x": 400,
+      "y": 76,
       "target": "recon_dashboard"
     },
     {
@@ -66,10 +66,10 @@
       ],
       "selected_layers": [
         { "image_path": "assets/dashboard/item_bg.png","x": 0, "y": 0, "recolor_palette": "white"  },
-        { "text": "PINEAP", "x": -341, "y": 103, "text_size": "large", "text_color_palette": "white" }
+        { "text": "PINEAP", "x": -289, "y":  67, "text_size": "large", "text_color_palette": "white" }
       ],
-      "x": 352,
-      "y": 70,
+      "x": 294,
+      "y": 105,
       "target": "pineap_menu"
     },
     {
